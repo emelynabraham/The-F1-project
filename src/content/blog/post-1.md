@@ -1,11 +1,11 @@
 ---
-title: "F1 beginner's manual."
+title: "F1 begginer's manual"
 meta_title: ""
-description: "this is a user friendly  beginner's manual to F1"
-date: 2025-12-03:00:00Z
+description: "this is a beginner's manual to F1"
+date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Application", "Data"]
-author: "Aashi A. Sinha"
+author: "John Doe"
 tags: ["nextjs", "tailwind"]
 draft: false
 ---
