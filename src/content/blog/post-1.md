@@ -2,7 +2,7 @@
 title: "F1 beginner's manual"
 meta_title: ""
 description: "this is a beginner's manual to F1"
-date: 2022-04-04T05:00:00Z
+date: 2025-12-02T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Application", "Data"]
 author: "John Doe"
@@ -12,9 +12,9 @@ draft: false
 
 Carlos Sainz
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Creative Design
+
+## safety cars
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
