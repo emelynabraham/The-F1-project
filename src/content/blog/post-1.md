@@ -1,5 +1,5 @@
 ---
-title: "F1 begginer's manual"
+title: "F1 beginner's manual"
 meta_title: ""
 description: "this is a user friendly  beginner's manual to F1"
 date: 2025-12-03:00:00Z
