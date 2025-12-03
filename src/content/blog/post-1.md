@@ -1,7 +1,7 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "F1 begginer's manual"
 meta_title: ""
-description: "this is meta description"
+description: "this is a beginner's manual to F1"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Application", "Data"]
