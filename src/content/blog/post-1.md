@@ -5,7 +5,7 @@ description: "this is a user friendly  beginner's manual to F1"
 date: 2025-12-03:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Application", "Data"]
-author: "Aashi Sinha"
+author: "Aashi A. Sinha"
 tags: ["nextjs", "tailwind"]
 draft: false
 ---
