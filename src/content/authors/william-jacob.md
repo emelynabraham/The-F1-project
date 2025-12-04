@@ -1,5 +1,5 @@
 ---
-title: William Jacob
+title: Emelyn Abraham
 email: williamjacob@email.com
 image: "/images/avatar.png"
 description: this is meta description
